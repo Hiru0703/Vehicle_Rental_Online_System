@@ -1,0 +1,217 @@
+*{
+text-decoration: none;
+list-style: none;
+padding: 0;
+margin:0:
+
+}
+
+.clearfix{
+
+    overflow: auto;
+}
+
+ul{
+    background-color:#D0D3D4;
+    text-align: center;
+    
+}
+
+li{
+    border:white;
+    border-radius:5px;
+    display:inline-block;
+    width: 200px;
+    height:25px;
+    padding:14px;
+    margin-left: 25px;
+    outline-style: solid;
+    background-color:#283747;
+    
+}
+
+a {
+    color: white;
+font-size: medium;
+text-transform: uppercase;
+letter-spacing:2px ;
+display:block;
+
+}
+
+a:hover{
+    background-color:red;
+}
+
+li:hover{
+    background-color:blue;
+}
+
+.formclass{
+   background-color:initial; 
+     margin-left: 250px;
+    margin-right: 250px;
+    margin-top:100px;
+    margin-bottom: 100px;
+    opacity: 0.9;
+}
+
+
+.cl{
+
+margin-left: 25px;
+margin-right: 25px;
+color: white;
+font-size: large;
+font-family: monospace;
+
+
+}
+.uptopic{
+
+background-color:transparent;
+
+}
+
+.topic{
+font-size:xx-large;
+font-family: serif; 
+text-align: center;
+font-weight: bold;
+color: white;
+
+}
+
+.int1{
+   background-color:white; 
+    width:100%;
+    height:30px;
+
+}
+
+.h3{
+    font-size: small;
+}
+
+
+}
+
+.button{
+     display:block;
+     background-color:#32CD32;
+    text-align: center;
+    width: 100%;
+    height: 25px;
+
+    margin-left: 200px;
+   font-size: large;
+   font-weight: bold;
+   font-family: inherit;
+   color:red;
+}
+
+.button:hover{
+
+background-color: #32CD32; 
+
+}
+
+
+
+
+
+
+.bi{
+
+    background-image: url("https://cdn.jumeirah.com/-/mediadh/dh/hospitality/jumeirah/hotels/dubai/jumeirah-beach-hotel/hotel-offers/high_resolution_300dpi-jumeirah-sirius-limousine-service-business-couple_6-4_landscape.jpg?h=1080&w=1620");
+    background-repeat:no-repeat;
+    background-size: cover;
+    width:100%
+    opacity:0.9;
+    }
+
+.fp{
+
+    color: yellow;
+    margin-left: 50px;
+}
+
+.click{
+
+    color: #32CD32;
+}
+
+footer {
+  
+  background-color:Cornsilk;
+}
+
+font{
+    font-family: 'Brush Script MT', cursive;
+    font-size:25px;
+}
+
+img{
+
+   display:inline-block; 
+   width: 100px; 
+}
+
+a {
+display:inline-block;  
+}
+
+.media{
+
+    float: left;
+}
+
+.cards {
+
+    float: right;
+}
+
+
+
+.log{
+
+
+}
+
+.fc{
+
+
+}
+
+.form{
+
+
+}
+
+.mail{
+
+
+}
+
+input{
+
+    width: 100px;
+    text-align: center;
+}
+
+.f1{
+    
+    text-align: : center;
+}
+
+.f2{
+
+   text-align: : center;
+} 
+
+.header{
+
+    width: 200px;
+    float: left;
+}
+

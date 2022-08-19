@@ -1,0 +1,197 @@
+.clearfix{
+    overflow:auto;
+    background-image: url("https://newwall.com/wp-content/uploads/2020/09/Calico_Inverted-Spaces_Orion_Angle.jpg");
+}
+
+
+.div2{
+    float: left;
+    background-color: lavender;
+    font-family: cursive;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    width: 500px;
+    height: 
+}
+
+.div3{
+    float:right;
+    background-color: bisque;  
+    margin-left: 50px;
+    margin-right: 200px;
+}
+
+}
+
+
+.cl{
+
+margin-left: 25px;
+margin-right: 25px;
+font-size: large;
+font-family: monospace;
+
+
+}
+.uptopic{
+
+background-color:transparent;
+
+}
+
+.topic{
+font-size:xx-large;
+font-family: serif; 
+text-align: center;
+font-weight: bold;
+color: black;
+
+}
+
+.int1{
+   background-color:white; 
+    width:150%;
+    height:30px;
+
+}
+
+
+input{
+
+   padding-bottom:10px;
+   width: 100px;
+   margin-left:2px;
+   margin-right: 2px;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h4{
+    text-transform: uppercase;
+}
+
+.photo{
+    width:500px ;
+    height:300px;
+}
+
+.div1 {
+background-image: url("https://newwall.com/wp-content/uploads/2020/09/Calico_Inverted-Spaces_Orion_Angle.jpg");
+
+    background-repeat:no-repeat;
+    background-size: cover;
+    width:100%
+    opacity:0.9;
+}
+
+.check{
+   width: 25px;
+}
+
+.button{
+     display:block;
+     background-color:#32CD32;
+    text-align: center;
+    width: 100px;
+    height: 25px;
+
+    margin-left: 250px;
+   font-size: large;
+   font-weight: bold;
+   font-family: inherit;
+   color: white;
+}
+
+.button:hover{
+
+background-color:lightblue
+
+}
+
+.header{
+
+    width: 200px;
+    float: left;
+}
+
+
+footer {
+  
+  background-color:Cornsilk;
+}
+
+font{
+    font-family: 'Brush Script MT', cursive;
+    font-size:25px;
+}
+
+img{
+
+   display:inline-block; 
+   width: 100px; 
+}
+
+a {
+display:inline-block;  
+}
+
+.media{
+
+    float: left;
+}
+
+.cards {
+
+    float: right;
+}
+
+ul{
+    background-color:#D0D3D4;
+    text-align: center;
+    
+}
+
+li{
+    border:white;
+    border-radius:5px;
+    display:inline-block;
+    width: 200px;
+    height:25px;
+    padding:14px;
+    margin-left: 25px;
+    outline-style: solid;
+    background-color:#283747;
+    
+}
+
+a {
+    color: white;
+font-size: medium;
+text-transform: uppercase;
+letter-spacing:2px ;
+display:inline-block;
+
+}
+
+a:hover{
+    background-color:red;
+}
+
+li:hover{
+    background-color:blue;
+}
+
+h4{
+
+    font-size: 25px;
+}
+
